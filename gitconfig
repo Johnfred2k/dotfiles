@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = Johnfred2k@gmail.com
+	name = Nils Apeler
